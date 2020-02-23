@@ -1,0 +1,7 @@
+com/testings/tests/AmountAndRegionsTest.class
+com/testings/tests/GenderTest.class
+com/testings/tests/InvalidGenderTest.class
+com/testings/tests/InvalidRegionTest.class
+com/testings/tests/AmountCountTests.class
+com/testings/tests/ThreeParamsTest.class
+com/testings/tests/GenderRegionTest.class

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="14" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-23T13:42:40 GMT" name="Command line suite" finished-at="2020-02-23T13:42:45 GMT" duration-ms="5426">
+    <groups>
+    </groups>
+    <test started-at="2020-02-23T13:42:40 GMT" name="Command line test" finished-at="2020-02-23T13:42:45 GMT" duration-ms="5426">
+      <class name="com.testings.tests.InvalidGenderTest">
+        <test-method signature="invalidGender()[pri:0, instance:com.testings.tests.InvalidGenderTest@45820e51]" started-at="2020-02-23T13:42:42 GMT" name="invalidGender" finished-at="2020-02-23T13:42:42 GMT" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidGender -->
+      </class> <!-- com.testings.tests.InvalidGenderTest -->
+      <class name="com.testings.tests.AmountAndRegionsTest">
+        <test-method signature="amountAndRegions()[pri:0, instance:com.testings.tests.AmountAndRegionsTest@6043cd28]" started-at="2020-02-23T13:42:44 GMT" name="amountAndRegions" finished-at="2020-02-23T13:42:44 GMT" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountAndRegions -->
+      </class> <!-- com.testings.tests.AmountAndRegionsTest -->
+      <class name="com.testings.tests.ThreeParamsTest">
+        <test-method signature="threeParams()[pri:0, instance:com.testings.tests.ThreeParamsTest@60285225]" started-at="2020-02-23T13:42:43 GMT" name="threeParams" finished-at="2020-02-23T13:42:44 GMT" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threeParams -->
+      </class> <!-- com.testings.tests.ThreeParamsTest -->
+      <class name="com.testings.tests.GenderRegionTest">
+        <test-method signature="genderRegionTest()[pri:0, instance:com.testings.tests.GenderRegionTest@7113b13f]" started-at="2020-02-23T13:42:44 GMT" name="genderRegionTest" finished-at="2020-02-23T13:42:45 GMT" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genderRegionTest -->
+      </class> <!-- com.testings.tests.GenderRegionTest -->
+      <class name="com.testings.tests.InvalidRegionTest">
+        <test-method signature="invalidRegion()[pri:0, instance:com.testings.tests.InvalidRegionTest@cb51256]" started-at="2020-02-23T13:42:45 GMT" name="invalidRegion" finished-at="2020-02-23T13:42:45 GMT" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidRegion -->
+      </class> <!-- com.testings.tests.InvalidRegionTest -->
+      <class name="com.testings.tests.NoParamsTest">
+        <test-method signature="noParamsTest()[pri:0, instance:com.testings.tests.NoParamsTest@42d8062c]" started-at="2020-02-23T13:42:42 GMT" name="noParamsTest" finished-at="2020-02-23T13:42:43 GMT" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noParamsTest -->
+      </class> <!-- com.testings.tests.NoParamsTest -->
+      <class name="com.testings.tests.GenderTest">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.testings.tests.GenderTest@29b5cd00]" started-at="2020-02-23T13:42:40 GMT" name="setUpTest" finished-at="2020-02-23T13:42:40 GMT" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="genderTest()[pri:0, instance:com.testings.tests.GenderTest@29b5cd00]" started-at="2020-02-23T13:42:40 GMT" name="genderTest" finished-at="2020-02-23T13:42:42 GMT" duration-ms="1535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genderTest -->
+      </class> <!-- com.testings.tests.GenderTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

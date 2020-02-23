@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="UI NAMES API AUTOMATION TEST RUNNING" verbose="1" >
+    <test name="All Tests" >
+        <classes>
+            <class name="com.testings.tests.NoParamsTest" />
+            <class name="com.testings.tests.ThreeParamsTest"></class>
+            <class name="com.testings.tests.InvalidRegionTest"></class>
+            <class name="com.testings.tests.InvalidGenderTest"></class>
+            <class name="com.testings.tests.GenderTest"></class>
+            <class name="com.testings.tests.GenderRegionTest"></class>
+            <class name="com.testings.tests.AmountAndRegionsTest"></class>
+            <class name="com.testings.tests.AmountCountTests"></class>
+        </classes>
+    </test>
+</suite>
